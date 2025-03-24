@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BarVolumeSederhana</string>
+    <string name="Lenght">Panjang</string>
+    <string name="Width">Lebar</string>
+    <string name="Height">Tinggi</string>
+    <string name="calculate">Hitung</string>
+    <string name="Result">Hasil</string>
+</resources>
